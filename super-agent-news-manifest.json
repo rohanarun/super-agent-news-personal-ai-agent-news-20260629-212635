@@ -1,0 +1,57 @@
+{
+  "citations": [
+    {
+      "source": "ALM Corp",
+      "title": "Gemini Can Now Operate Your Computer and Attackers Are Already Adapting",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw?oc=5"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "Crypto Briefing",
+      "title": "Apple unveils next-generation Siri AI at WWDC 2026",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuLXRJc19tNllvUzJrVlFmaVd4ckpBdUhhNFgyZXBycmlKTGJ2V2NyYUlFX3VManpuQW9ncXZtOFFhbmxWTHh2LXhjMWJKcDZaN1h4RS1UcE90aDlJeGpDY3pzMGg5UjhBd3AwQ3Y3QmFrTjVha0xZbmhQZw?oc=5"
+    },
+    {
+      "source": "BigGo Finance",
+      "title": "Musk\u2019s AI Blitz: Grok 4.5 Matches Claude Opus Performance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3OXcwZkh1anlib0dTTVdtOWhpVlgxNmNLcmVWbEFNQzg0ZDkyTGc4NzNvSmVYTW1FS0JjVXZ2X2N2VUktSjhsOEVrYTVXbXJFZ1J5MkJLa2FpYlRaRDNqZm12SmpwUmdVSjBhWC1vQ2gyV3Zfb3c?oc=5"
+    },
+    {
+      "source": "BW Businessworld",
+      "title": "60% Of Indian Consumers Want Personal AI Agents, Highest In Asia Pacific",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3k2YWR0UUZValVWRTMybEFDOHptU3RETnFDOFJhaEV4VzlSQnlwZTRPUjFZcDFVLXR0NVlPNnF3ME1wTnhZQXJtcWt4WEoweFJKaG50ZG11bmVYMml6MV92RlluWW83UEJMUkIyWm1zTW5aUWRMQzQ5aG1CemNOSGp0M2QwTlhpOVVscENLOC16YVNSdFBYbUZodFBlLS1xZ05RR0tiLWl4dEpKQTVIQ1RGN290WEkybHZQN1NvdmJFUS1sTHc?oc=5"
+    },
+    {
+      "source": "writingtools.ai",
+      "title": "HTML & CSS Code Generator \u2014 Responsive, Semantic, Accessible",
+      "url": "https://writingtools.ai/tools/html-css-code-generator"
+    }
+  ],
+  "design_plan": "rng_seed=42; layout=cinematic-centered; AIDA_pass=true; hero_max_width=1120px; competitors_sweep=[Folk,Orchids,Siri,ChatGPT,Gemini,Grok]; bento_density=grid-auto-flow:dense; CTA_contrast=black_on_paper_ok",
+  "generated_at": "2026-06-29T21:26:43.093582+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "An editorial market brief for buyers and builders tracking personal AI agents and computer\u2011use assistants. This page synthesizes late\u2011June reporting on Gemini\u2019s computer use, Grok\u2019s rapid iteration, Siri\u2019s platform refresh, and broader demand signals \u2014 then contrasts them with Super\u2019s focus on durable computer\u2011operating agents and a reusable computer-use cache for repeated workflows."
+}
